@@ -1,5 +1,5 @@
 
-<img src="" style="height: 100% , width:100%">
+<img src="Arte y tecnologia.jpg" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋, Soy Raquel González Jiménez</h1>
 
 <!--
